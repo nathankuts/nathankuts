@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nathankuts
 - 👀 I’m interested in Frontend development
-- 🌱 I’m currently learning HTML,CSS and JAVASCRIPT @ ALX
+- 🌱 ALX Software Engineer gradute | Front-End Development
 - 💞️ I’m looking to collaborate on any web developement project
-- 📫 How to reach me nathankutete99@gmail.com
+- 📫 How to reach me makhombenathan@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: Dragon ball made me skip film classes in College
 
