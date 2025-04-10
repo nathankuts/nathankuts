@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nathankuts
 - 👀 I’m interested in Frontend development
-- 🌱 ALX Software Engineer gradute | Front-End Development
+- 🌱 ALX Software Engineer graduate | Front-End Development
 - 💞️ I’m looking to collaborate on any web developement project
 - 📫 How to reach me makhombenathan@gmail.com
 - 😄 Pronouns: He
