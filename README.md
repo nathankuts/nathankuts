@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nathankuts
+- 👋 Hi, I’m @nathankuts, creator of sinema.ke
 - 👀 I’m interested in Frontend development
 - 🌱 ALX Software Engineer graduate | Front-End Development
 - 💞️ I’m looking to collaborate on any web developement project
